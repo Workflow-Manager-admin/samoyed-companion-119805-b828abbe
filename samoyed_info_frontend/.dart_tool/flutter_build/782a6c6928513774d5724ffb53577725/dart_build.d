@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/samoyed-companion-119805-b828abbe/samoyed_info_frontend/.dart_tool/flutter_build/782a6c6928513774d5724ffb53577725/dart_build_result.json: 
